@@ -63,7 +63,6 @@ Web Developer
             alt="NextJs"
         />
     </a>
-
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
         <img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
